@@ -1,0 +1,3 @@
+[submodule "aws-missing-tools"]
+	path = aws-missing-tools
+	url = https://github.com/colinbjohnson/aws-missing-tools.git
