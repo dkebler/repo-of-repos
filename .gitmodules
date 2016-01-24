@@ -1,3 +1,36 @@
 [submodule "aws-missing-tools"]
 	path = aws-missing-tools
 	url = https://github.com/colinbjohnson/aws-missing-tools.git
+[submodule "flex-grid"]
+	path = flex-grid
+	url = ../../sajran/flex-grid.git
+[submodule "kickstart"]
+	path = kickstart
+	url = ../../adamjgrant/kickstart.git
+[submodule "color-scheme-js"]
+	path = color-scheme-js
+	url = ../../c0bra/color-scheme-js.git
+[submodule "tomboy"]
+	path = tomboy
+	url = ../../GNOME/tomboy.git
+[submodule "tidy-html5"]
+	path = tidy-html5
+	url = ../../htacg/tidy-html5.git
+[submodule "modularscale-sass"]
+	path = modularscale-sass
+	url = ../../modularscale/modularscale-sass.git
+[submodule "node-sass-import-once"]
+	path = node-sass-import-once
+	url = ../../at-import/node-sass-import-once.git
+[submodule "You-Dont-Know-JS"]
+	path = You-Dont-Know-JS
+	url = ../../getify/You-Dont-Know-JS.git
+[submodule "SJSJ"]
+	path = SJSJ
+	url = ../../HugoGiraudel/SJSJ.git
+[submodule "milligram"]
+	path = milligram
+	url = ../../HugoGiraudel/milligram.git
+[submodule "color-schemer"]
+	path = color-schemer
+	url = ../../at-import/color-schemer.git
