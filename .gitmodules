@@ -3,31 +3,31 @@
 	url = https://github.com/colinbjohnson/aws-missing-tools.git
 [submodule "flex-grid"]
 	path = flex-grid
-	url = ../../sajran/flex-grid.git
+	url = https://github.com/sajran/flex-grid.git
 [submodule "color-scheme-js"]
 	path = color-scheme-js
-	url = ../../c0bra/color-scheme-js.git
+	url = https://github.com/c0bra/color-scheme-js.git
 [submodule "tomboy"]
 	path = tomboy
-	url = ../../GNOME/tomboy.git
+	url = https://github.com/GNOME/tomboy.git
 [submodule "tidy-html5"]
 	path = tidy-html5
-	url = ../../htacg/tidy-html5.git
+	url = https://github.com/htacg/tidy-html5.git
 [submodule "modularscale-sass"]
 	path = modularscale-sass
-	url = ../../modularscale/modularscale-sass.git
+	url = https://github.com/modularscale/modularscale-sass.git
 [submodule "node-sass-import-once"]
 	path = node-sass-import-once
-	url = ../../at-import/node-sass-import-once.git
+	url = https://github.com/at-import/node-sass-import-once.git
 [submodule "You-Dont-Know-JS"]
 	path = You-Dont-Know-JS
-	url = ../../getify/You-Dont-Know-JS.git
+	url = https://github.com/getify/You-Dont-Know-JS.git
 [submodule "SJSJ"]
 	path = SJSJ
-	url = ../../HugoGiraudel/SJSJ.git
+	url = https://github.com/HugoGiraudel/SJSJ.git
 [submodule "milligram"]
 	path = milligram
-	url = ../../HugoGiraudel/milligram.git
+	url = https://github.com/HugoGiraudel/milligram.git
 [submodule "color-schemer"]
 	path = color-schemer
-	url = ../../at-import/color-schemer.git
+	url = https://github.com/at-import/color-schemer.git
