@@ -4,9 +4,6 @@
 [submodule "flex-grid"]
 	path = flex-grid
 	url = ../../sajran/flex-grid.git
-[submodule "kickstart"]
-	path = kickstart
-	url = ../../adamjgrant/kickstart.git
 [submodule "color-scheme-js"]
 	path = color-scheme-js
 	url = ../../c0bra/color-scheme-js.git
