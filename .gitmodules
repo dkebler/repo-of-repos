@@ -34,3 +34,6 @@
 [submodule "kickstart"]
 	path = kickstart
 	url = https://github.com/adamjgrant/kickstart/
+[submodule "fs-promise"]
+	path = fs-promise
+	url = https://github.com/kevinbeaty/fs-promise.git
