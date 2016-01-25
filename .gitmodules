@@ -31,3 +31,6 @@
 [submodule "color-schemer"]
 	path = color-schemer
 	url = https://github.com/at-import/color-schemer.git
+[submodule "kickstart"]
+	path = kickstart
+	url = https://github.com/adamjgrant/kickstart/
