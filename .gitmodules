@@ -37,3 +37,18 @@
 [submodule "fs-promise"]
 	path = fs-promise
 	url = https://github.com/kevinbeaty/fs-promise.git
+[submodule "gulp-patterns"]
+	path = gulp-patterns
+	url = https://github.com/johnpapa/gulp-patterns.git
+[submodule "jade-template"]
+	path = jade-template
+	url = https://github.com/cbriancesco/jade-template.git
+[submodule "jade-landing-template"]
+	path = jade-landing-template
+	url = https://github.com/cbriancesco/jade-landing-template.git
+[submodule "solved-by-flexbox"]
+	path = solved-by-flexbox
+	url = https://github.com/philipwalton/solved-by-flexbox.git
+[submodule "gulp-eta"]
+	path = gulp-eta
+	url = https://github.com/40Digits/gulp-eta.git
