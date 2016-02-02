@@ -52,3 +52,12 @@
 [submodule "gulp-eta"]
 	path = gulp-eta
 	url = https://github.com/40Digits/gulp-eta.git
+[submodule "flipstart"]
+	path = flipstart
+	url = https://github.com/theme-flip/flipstart.git
+[submodule "gulp-browserify-library-seed"]
+	path = gulp-browserify-library-seed
+	url = https://github.com/mgonto/gulp-browserify-library-seed.git
+[submodule "SassyGradients"]
+	path = SassyGradients
+	url = https://github.com/HugoGiraudel/SassyGradients.git
