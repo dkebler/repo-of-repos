@@ -64,3 +64,6 @@
 [submodule "sassport"]
 	path = sassport
 	url = https://github.com/davidkpiano/sassport.git
+[submodule "eyeglass"]
+	path = eyeglass
+	url = https://github.com/sass-eyeglass/eyeglass.git
