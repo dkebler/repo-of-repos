@@ -67,3 +67,24 @@
 [submodule "eyeglass"]
 	path = eyeglass
 	url = https://github.com/sass-eyeglass/eyeglass.git
+[submodule "typesettings"]
+	path = typesettings
+	url = https://github.com/ianrose/typesettings.git
+[submodule "preact"]
+	path = preact
+	url = https://github.com/developit/preact.git
+[submodule "nativefier"]
+	path = nativefier
+	url = https://github.com/jiahaog/nativefier.git
+[submodule "Buttons"]
+	path = Buttons
+	url = https://github.com/alexwolfe/Buttons.git
+[submodule "bem-buttons"]
+	path = bem-buttons
+	url = https://github.com/nikazawila/bem-buttons.git
+[submodule "bem-sass"]
+	path = bem-sass
+	url = https://github.com/jsng/bem-sass.git
+[submodule "top-bar.css"]
+	path = top-bar.css
+	url = https://github.com/ngoldman/top-bar.css.git
