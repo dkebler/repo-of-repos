@@ -88,3 +88,21 @@
 [submodule "top-bar.css"]
 	path = top-bar.css
 	url = https://github.com/ngoldman/top-bar.css.git
+[submodule "susy"]
+	path = susy
+	url = https://github.com/oddbird/susy.git
+[submodule "responsive-nav.js"]
+	path = responsive-nav.js
+	url = https://github.com/viljamis/responsive-nav.js.git
+[submodule "style"]
+	path = style
+	url = https://github.com/bensmithett/style.git
+[submodule "sanitize.css"]
+	path = sanitize.css
+	url = https://github.com/10up/sanitize.css.git
+[submodule "uRequire"]
+	path = uRequire
+	url = https://github.com/anodynos/uRequire.git
+[submodule "SlickNav"]
+	path = SlickNav
+	url = https://github.com/ComputerWolf/SlickNav.git
