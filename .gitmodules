@@ -106,3 +106,12 @@
 [submodule "SlickNav"]
 	path = SlickNav
 	url = https://github.com/ComputerWolf/SlickNav.git
+[submodule "buddy"]
+	path = buddy
+	url = https://github.com/popeindustries/buddy.git
+[submodule "js-assessment"]
+	path = js-assessment
+	url = https://github.com/rmurphey/js-assessment.git
+[submodule "meatier"]
+	path = meatier
+	url = https://github.com/mattkrick/meatier.git
