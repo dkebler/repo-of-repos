@@ -115,3 +115,24 @@
 [submodule "meatier"]
 	path = meatier
 	url = https://github.com/mattkrick/meatier.git
+[submodule "accord"]
+	path = accord
+	url = https://github.com/jenius/accord.git
+[submodule "honey"]
+	path = honey
+	url = https://github.com/honey/honey.git
+[submodule "posthtml"]
+	path = posthtml
+	url = https://github.com/posthtml/posthtml.git
+[submodule "gulp-inject"]
+	path = gulp-inject
+	url = https://github.com/klei/gulp-inject.git
+[submodule "EpicEditor"]
+	path = EpicEditor
+	url = https://github.com/OscarGodson/EpicEditor.git
+[submodule "react-static-boilerplate"]
+	path = react-static-boilerplate
+	url = https://github.com/koistya/react-static-boilerplate.git
+[submodule "react-starter-kit"]
+	path = react-starter-kit
+	url = https://github.com/kriasoft/react-starter-kit.git
