@@ -136,3 +136,27 @@
 [submodule "react-starter-kit"]
 	path = react-starter-kit
 	url = https://github.com/kriasoft/react-starter-kit.git
+[submodule "juicy-html"]
+	path = juicy-html
+	url = https://github.com/Juicy/juicy-html.git
+[submodule "node-app-etc-load"]
+	path = node-app-etc-load
+	url = https://github.com/kgryte/node-app-etc-load.git
+[submodule "jquery-colorpickersliders"]
+	path = jquery-colorpickersliders
+	url = ../../istvan-ujjmeszaros/jquery-colorpickersliders.git
+[submodule "colorspaces.js"]
+	path = colorspaces.js
+	url = ../../boronine/colorspaces.js.git
+[submodule "neutroncss"]
+	path = neutroncss
+	url = ../../NeutronCSS/neutroncss.git
+[submodule "sass-include-paths"]
+	path = sass-include-paths
+	url = https://github.com/strarsis/sass-include-paths.git
+[submodule "sass-mediaqueries"]
+	path = sass-mediaqueries
+	url = https://github.com/paranoida/sass-mediaqueries.git
+[submodule "gridle"]
+	path = gridle
+	url = ../../olivierbossel/gridle.git
