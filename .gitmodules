@@ -157,6 +157,3 @@
 [submodule "sass-mediaqueries"]
 	path = sass-mediaqueries
 	url = https://github.com/paranoida/sass-mediaqueries.git
-[submodule "gridle"]
-	path = gridle
-	url = ../../olivierbossel/gridle.git
