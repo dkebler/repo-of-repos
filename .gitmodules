@@ -160,3 +160,9 @@
 [submodule "gridle"]
 	path = gridle
 	url = https://github.com/olivierbossel/gridle.git
+[submodule "git-repository"]
+	path = git-repository
+	url = https://github.com/koistya/git-repository.git
+[submodule "sinopia"]
+	path = sinopia
+	url = https://github.com/rlidwka/sinopia.git
