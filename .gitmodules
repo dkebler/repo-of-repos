@@ -160,3 +160,6 @@
 [submodule "sinopia"]
 	path = sinopia
 	url = https://github.com/rlidwka/sinopia.git
+[submodule "nativefier"]
+	path = nativefier
+	url = https://github.com/jiahaog/nativefier.git
