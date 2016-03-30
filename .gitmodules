@@ -70,9 +70,6 @@
 [submodule "preact"]
 	path = preact
 	url = https://github.com/developit/preact.git
-[submodule "nativefier"]
-	path = nativefier
-	url = https://github.com/jiahaog/nativefier.git
 [submodule "Buttons"]
 	path = Buttons
 	url = https://github.com/alexwolfe/Buttons.git
