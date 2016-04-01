@@ -163,3 +163,6 @@
 [submodule "nativefier"]
 	path = nativefier
 	url = https://github.com/jiahaog/nativefier.git
+[submodule "osync"]
+	path = osync
+	url = https://github.com/deajan/osync.git
