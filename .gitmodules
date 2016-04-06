@@ -166,3 +166,6 @@
 [submodule "osync"]
 	path = osync
 	url = https://github.com/deajan/osync.git
+[submodule "syncd"]
+	path = syncd
+	url = https://github.com/drunomics/syncd.git
